@@ -1,0 +1,21 @@
+.panel-todo{
+    height: auto;
+    color: darkgray;
+    text-align: left;
+    float: left;
+    width: 100%;
+    margin-left: -30px;
+}
+.col-md-8{
+    width: 40vw;
+}
+.task-checkbox{
+    float: left;
+    margin-right: 20px;
+}
+.todo-col{
+    width: 115%;
+}
+.white-header{
+    text-align: center !important;
+}
