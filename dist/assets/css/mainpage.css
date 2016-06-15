@@ -19,3 +19,20 @@
 .white-header{
     text-align: center !important;
 }
+.search-bar{
+    width: 30%;
+    float: left;
+    margin-top: 11px;
+    margin-left: 20%;
+}
+.btn_search{
+    float:right;
+    width: 25%;
+}
+.search-input{
+    float: left;
+    width: 70% !important;
+}
+.search-form{
+    width: 100%;
+}
